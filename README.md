@@ -15,7 +15,7 @@
 ## Step 3:
 - You can now contiune with by language documentation. Find your programming language of choice below:
 
-    - [Python]()
+    - [Python](https://github.com/Ryamonster10/advcode/blob/main/python.md)
     - [C#]()
     - [Java]()
     - [Lua -- Coming Soon!]()
